@@ -17,4 +17,3 @@ elif bmi <= 39.99:
     print("II. fokú elhízás")
 elif bmi >= 40:
     print("III. fokú (súlyos) elhízás")
-print("thank you for using our software!")
